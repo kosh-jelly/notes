@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "kosh-jelly.github.io/quartz-site",
+    baseUrl: "kosh-jelly.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian", "Templates"],
     defaultDateType: "modified",
     theme: {
