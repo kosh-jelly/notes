@@ -2,8 +2,8 @@
 # Sync Obsidian vault to Quartz content folder
 # Only syncs files with 'publish: true' in frontmatter
 
-VAULT_PATH="$HOME/Library/CloudStorage/Dropbox/JoshObsidian"
-QUARTZ_CONTENT="$HOME/Projects/quartz-site/content"
+VAULT_PATH="$HOME/Documents/JoshObsidian"
+QUARTZ_CONTENT="$HOME/Projects/notes/content"
 
 # Clear existing content (except index.md if it exists)
 rm -rf "$QUARTZ_CONTENT"/*
