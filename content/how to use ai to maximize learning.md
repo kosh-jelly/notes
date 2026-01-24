@@ -25,6 +25,35 @@ AI is a tool that can help you learn even better and it can help you avoid learn
 - It replaces your learning and all you've actually learned is how to tell AI to do the thing. You haven't internalized any taste about it.
 - If the AI is your only source of knowledge of a thing, it's very brittle. AIs can get things wrong. Or err on the side of consensus. Or not know when to nuance something.
 
+## LLMs 
+
 ## Questions
 
 - When are AI summaries worth the trade off?
+
+## AI Learning Tools
+
+- [[Awesome ChatGPT Prompts]] for learning, including math teacher, philosophy teacher, and template for socratic questioning
+- [[NotebookLM]] apparently has a podcast feature where it will create a podcast dialogue between the papers you've uploaded
+- OATutor can help estimate current competence (open source)
+- DeepTutor (open source) - research, visualizations, semantic connections
+- [[Mr. Ranedeer]] - long set of prompts that allows for structured interactions around learning
+
+
+
+## Related Research
+
+
+
+## People worth following in this space
+
+- [[Ethan Mollick]], professor at Wharton
+- [[Tyler Cowen]], economist at George Mason, blogger, and podcaster
+	- position: future belongs to people who use AI well to learn
+- [[Andy Mutaschak]], independent learning researcher, formerly at Apple and Khan Academy
+	- position: more skeptical of AI for education. Don't outsource the hard parts.
+
+## Related Notes
+
+- [[how to use ai to maximize academic research]]
+- [[assessing current understanding of a subject]]
