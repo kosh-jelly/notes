@@ -25,8 +25,6 @@ AI is a tool that can help you learn even better and it can help you avoid learn
 - It replaces your learning and all you've actually learned is how to tell AI to do the thing. You haven't internalized any taste about it.
 - If the AI is your only source of knowledge of a thing, it's very brittle. AIs can get things wrong. Or err on the side of consensus. Or not know when to nuance something.
 
-## LLMs 
-
 ## Questions
 
 - When are AI summaries worth the trade off?
@@ -43,7 +41,7 @@ AI is a tool that can help you learn even better and it can help you avoid learn
 
 ## Related Research
 
-
+*tbd*
 
 ## People worth following in this space
 
