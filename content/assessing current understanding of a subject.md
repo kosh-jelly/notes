@@ -23,4 +23,4 @@ publish: true
 	- 
 
 ## Tools
-- [[OATutor]] - open source tool for learning that includes BKT
+- [OATutor](https://www.oatutor.io/) - open source tool for learning that includes BKT

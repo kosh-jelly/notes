@@ -14,7 +14,7 @@ AI is a tool that can help you learn even better and it can help you avoid learn
 
 - Actively engaging, wresting, recalling and making connections is where learning happens, not just passively intaking information
 - Use AI for curation (what to read, where to look), not conclusions (what to believe)
-- Learn [[metaskills]] that will still be useful as AI gets better (evaluating ai trustworthiness, noticing when something doesn't fit, asking good questions, coming up with new creative uses)
+- Learn metaskills that will still be useful as AI gets better (evaluating ai trustworthiness, noticing when something doesn't fit, asking good questions, coming up with new creative uses)
 - Rely on AI more for orienting knowledge and less for developing [[deep taste]]
 - Orienting knowledge can be accelerated with AI without much loss
 	- AI is generally pretty trustworthy on basic orienting knowledge cause there is a lot of training data
@@ -31,11 +31,11 @@ AI is a tool that can help you learn even better and it can help you avoid learn
 
 ## AI Learning Tools
 
-- [[Awesome ChatGPT Prompts]] for learning, including math teacher, philosophy teacher, and template for socratic questioning
-- [[NotebookLM]] apparently has a podcast feature where it will create a podcast dialogue between the papers you've uploaded
-- OATutor can help estimate current competence (open source)
+- [Awesome ChatGPT Prompts](https://www.awesomegptprompts.com/) for learning, including math teacher, philosophy teacher, and template for socratic questioning
+- [NotebookLM](https://notebooklm.google/) apparently has a podcast feature where it will create a podcast dialogue between the papers you've uploaded
+- [OATutor](https://www.oatutor.io/) can help estimate current competence (open source)
 - DeepTutor (open source) - research, visualizations, semantic connections
-- [[Mr. Ranedeer]] - long set of prompts that allows for structured interactions around learning
+- [Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - long set of prompts that allows for structured interactions around learning. *This project is no longer maintained, and seems mostly superseded by the learning mode in claude and chatgpt. Interesting structure though*
 
 
 
@@ -45,10 +45,11 @@ AI is a tool that can help you learn even better and it can help you avoid learn
 
 ## People worth following in this space
 
-- [[Ethan Mollick]], professor at Wharton
-- [[Tyler Cowen]], economist at George Mason, blogger, and podcaster
+- [Ethan Mollick](https://www.oneusefulthing.org/), professor at Wharton
+- [Tyler Cowen](https://marginalrevolution.com/), economist at George Mason, blogger, and podcaster
 	- position: future belongs to people who use AI well to learn
-- [[Andy Mutaschak]], independent learning researcher, formerly at Apple and Khan Academy
+	- [Tyler Cowen talk on integrating AI into higher education](https://www.youtube.com/watch?v=KSx9kcFr7XA)
+- [Andy Mutaschak](https://andymatuschak.org/), independent learning researcher, formerly at Apple and Khan Academy
 	- position: more skeptical of AI for education. Don't outsource the hard parts.
 
 ## Related Notes

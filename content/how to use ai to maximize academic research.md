@@ -11,7 +11,10 @@ publish: true
 
 ## Tools
 
-- [[notebookLM]]
+- [notebookLM](https://notebooklm.google/)
+- Use projects in ChatGPT and Claude to upload research papers or books and query them
+- [Zotero MCP Server](https://github.com/54yyyu/zotero-mcp) that you can query for any papers in Zotero using Claude
+	- I use this with Claude (very cool and helpful!)
 
 ## Related
 
